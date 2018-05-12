@@ -1,0 +1,41 @@
+_repo: The-Child-s-Book-of-American-Biography_32628
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: archival
+  image_path: 32628-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stimpson, Mary Stoyell
+    gutenberg_agent_id: '35949'
+    url: http://www.gutenberg.org/2009/agents/35949
+description: ''
+gutenberg_issued: '2010-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32628'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'United States -- Biography'
+tableOfContents: George Washington -- William Penn -- John Paul Jones -- John Singleton
+  Copley -- Benjamin Franklin -- Louis Agassix -- Dorothea Lynde Dix -- Ulysses Simpson
+  Grant -- Clara Barton -- Abraham Lincoln -- Robert Edward Lee -- John James Audubon
+  -- Robert Fulton -- George Peabody -- Daniel Webster -- Augustus St. Gaudens --
+  Henry David Thoreau -- Louisa May Alcott -- Samuel Finley Breese Morse -- William
+  Hickling Prescott -- Phillips Brooks -- Samuel Clemens -- Joe Jefferson -- Henry
+  Wadsworth Longfellow -- James McNeill Whistler -- Ralph Waldo Emerson -- Jane Addams
+  -- Luther Burbank -- Edward Alexander MacDowell -- Thomas Alva Edison.
+title: The Child's Book of American Biography
+url: http://www.gutenberg.org/ebooks/32628
